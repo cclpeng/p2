@@ -1,0 +1,17 @@
+fixing that stupid console thing on the angular side
+finish our pages
+quickly add create new user 
+finish pipeline - sonar cube
+write some unit tests -_____-
+
+
+
+
+extra (next day)
+See the user stories for more?
+Branches github .___.
+add a filter searchbar
+make things prettier:
+	fix nav bar (center it?)
+	fix nav bar user link (move it over to the right furthest)
+	put stuff in the home page...
